@@ -6,12 +6,24 @@
   list-style: none;
 }
 
-.navbar {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: none;
-  color: black;
+header {
+  background-color: #03AD19;
+}
+
+.carousel-item {
+  height: 500px !important;
+}
+
+.carousel-item img {
+  height: 500px !important;
+}
+
+.campeonato {
+  text-align: center;
+}
+
+.carousel-item img {
+  height: 15rem;
 }
 
 /*# sourceMappingURL=style.css.map */
